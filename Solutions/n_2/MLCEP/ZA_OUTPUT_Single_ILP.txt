@@ -1,0 +1,12 @@
+Dict_of_clique_size_combinations_SINGLE_MILP:
+(5, 5) : 2
+
+Solution Time:
+0.07971692085266113
+
+full_W_lowest_tree_level:
+[{1, 2, 3, 4, 14}, {1, 2, 3, 4, 8}]
+[{1, 2, 3, 4, 8}, {1, 2, 3, 4, 14}]
+
+Final Pool Size for the Single ILP:
+16
