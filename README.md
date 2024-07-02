@@ -1,5 +1,5 @@
 # Subsequent-Largest-Cliques
-Repository for hosting results of the paper DOI:
+Repository for hosting results of the paper DOI: (Paper submitted on 30th June 2024)
 
 Graph Source: http://www.konect.cc/networks/
 
