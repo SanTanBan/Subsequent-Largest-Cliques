@@ -8,3 +8,5 @@ Graph Source: http://www.konect.cc/networks/
 (Full codes will be made public after DOI is received. Reviewers are requested to kindly request the code via journal in case replication of the results may be necessary.)
 
 The current state-of-art Heuristic for Clique finding has been identified to be: https://github.com/psanse/CliSAT/tree/master
+
+Check out the latest video explainer (teaser to the preprint): https://youtu.be/n093L_8GKAU
